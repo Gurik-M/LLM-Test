@@ -7,3 +7,4 @@ PyMuPDF==1.24.3
 PyMuPDFb==1.24.3
 streamlit==1.34.0
 sentence-transformers
+faiss-cpu
