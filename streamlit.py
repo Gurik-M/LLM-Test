@@ -1,3 +1,4 @@
+import langchain
 from langchain import PromptTemplate
 from langchain.chains import RetrievalQA
 from langchain.document_loaders import PyMuPDFLoader
