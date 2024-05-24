@@ -1,8 +1,8 @@
-langchain==0.2.1
-langchain-community==0.2.1
-langchain-core==0.2.1
-langchain-pinecone==0.1.0
-langchain-text-splitters==0.2.0
+langchain
+langchain-community
+langchain-core
+langchain-pinecone
+langchain-text-splitters
 PyMuPDF==1.24.3
 PyMuPDFb==1.24.3
 streamlit==1.34.0
